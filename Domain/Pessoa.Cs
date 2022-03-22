@@ -11,6 +11,4 @@ public class Pessoa
     public bool comorbidade { get; set; }//se tem comorbidade se sim, qual?
 
     public string contato { get; set; }
-
-    public int MyProperty { get; set; }
 }
